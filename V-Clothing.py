@@ -17,7 +17,7 @@ class jsonparse:
         print("\nnumber of " + self.filename + " textures: ", len(a))
         for i in range(len(a)):
             b = a[str(i)]
-            print(str(IDnum), i, "=  Text Label: ", b["GXT"], "  In-store Name: " + b["Localized"])
+            print(str(IDnum) + ' -', i, "=  Text Label: ", b["GXT"], "  In-store Name: " + b["Localized"])
 
 
 def oppGenderFile(a):

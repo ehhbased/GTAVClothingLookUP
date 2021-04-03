@@ -1,0 +1,3536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopPedApparel>
+  <pedName>mp_f_freemode_01</pedName>
+  <dlcName>Female_freemode_beach</dlcName>
+  <fullDlcName>mp_f_freemode_01_female_freemode_beach</fullDlcName>
+  <creatureMetaData>mp_creaturemetadata_beach</creatureMetaData>
+  <nameHash />
+  <eCharacter>SCR_CHAR_MULTIPLAYER_F</eCharacter>
+  <pedComponents>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_1_0</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_JBIB0_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_4</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>TAT_DECL</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="4" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="33" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="92" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_ACCS0_0</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="14" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_1_1</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_JBIB0_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_4</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="4" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="33" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_ACCS0_1</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="14" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_1_2</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_JBIB0_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_4</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="4" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="33" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_ACCS0_2</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="14" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_1_3</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_JBIB0_3</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_4</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="4" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="33" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_ACCS0_3</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="14" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_1_4</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_JBIB0_4</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_4</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="4" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="33" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_ACCS0_4</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="14" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="4" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_1_5</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_JBIB0_5</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_4</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="4" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="33" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_ACCS0_5</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="14" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="5" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_1_6</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_JBIB0_6</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_4</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="4" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="33" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_ACCS0_6</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="14" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="6" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_2_0</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_JBIB1_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_9</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="9" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="33" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="12" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_0</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_JBIB2_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_15</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="15" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="33" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_ACCS2_0</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="2" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_1</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_JBIB2_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_15</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="15" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="33" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_ACCS2_1</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="2" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_2</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_JBIB2_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_15</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="15" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="33" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_ACCS2_2</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="2" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_3</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_JBIB2_3</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_15</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="15" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="33" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_ACCS2_3</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="2" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_4</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_JBIB2_4</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_15</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="15" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="33" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_ACCS2_4</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="2" />
+      <textureIndex value="4" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_5</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_JBIB2_5</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_15</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="15" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="33" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_ACCS2_5</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="2" />
+      <textureIndex value="5" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_6</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_JBIB2_6</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_15</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="15" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="33" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_ACCS2_6</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="2" />
+      <textureIndex value="6" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_7</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_JBIB2_7</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_15</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="15" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="33" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_ACCS2_7</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="2" />
+      <textureIndex value="7" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_8</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_JBIB2_8</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_15</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="15" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="33" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_ACCS2_8</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="2" />
+      <textureIndex value="8" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_9</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_JBIB2_9</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_15</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="15" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="33" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_ACCS2_9</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="2" />
+      <textureIndex value="9" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_10</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_JBIB2_10</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_15</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="15" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="33" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_ACCS2_10</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="2" />
+      <textureIndex value="10" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_11</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_JBIB2_11</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_15</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="15" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="33" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_ACCS2_11</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="2" />
+      <textureIndex value="11" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_1_0</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_ACCS0_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>TAT_DECL</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="92" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_JBIB0_0</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="14" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_1_1</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_ACCS0_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_JBIB0_1</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="14" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_1_2</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_ACCS0_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_JBIB0_2</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="14" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_1_3</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_ACCS0_3</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_JBIB0_3</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="14" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_1_4</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_ACCS0_4</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_JBIB0_4</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="14" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="4" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_1_5</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_ACCS0_5</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash />
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_HAIR</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_JBIB0_5</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="14" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="5" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_1_6</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_ACCS0_6</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_JBIB0_6</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="14" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="6" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_0</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_ACCS2_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_JBIB2_0</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_1</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_ACCS2_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_JBIB2_1</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_2</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_ACCS2_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_JBIB2_2</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_3</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_ACCS2_3</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_JBIB2_3</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_4</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_ACCS2_4</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_JBIB2_4</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="4" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_5</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_ACCS2_5</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_JBIB2_5</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="5" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_6</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_ACCS2_6</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_JBIB2_6</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="6" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_7</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_ACCS2_7</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_JBIB2_7</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="7" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_8</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_ACCS2_8</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_JBIB2_8</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="8" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_9</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_ACCS2_9</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_JBIB2_9</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="9" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_10</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_ACCS2_10</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_JBIB2_10</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="10" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_U_3_11</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_ACCS2_11</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_BEACH_F_JBIB2_11</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="19" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="11" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_T_1_0</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_TEETH0_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_4</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="93" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_TEEF</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_T_1_1</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_TEETH0_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_4</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="93" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_TEEF</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_T_1_2</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_TEETH0_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_4</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="93" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_TEEF</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_T_1_3</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_TEETH0_3</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_4</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="93" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_TEEF</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_T_2_0</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_TEETH1_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_7</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>CHAIN</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="95" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_TEEF</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_T_2_1</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_TEETH1_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_7</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>CHAIN</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="95" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_TEEF</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_T_2_2</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_TEETH1_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_7</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>CHAIN</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="95" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_TEEF</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_T_2_3</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_TEETH1_3</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_7</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>CHAIN</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="95" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_TEEF</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_000</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="30" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_001</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="30" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_002</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="30" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_003</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR3</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="30" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_004</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR4</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="30" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="4" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_005</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR5</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="30" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="5" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_006</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR6</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="30" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="6" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_007</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR7</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="30" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="7" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_008</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR8</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="30" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="8" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_009</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR9</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="30" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="9" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_010</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR10</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="30" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="10" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_011</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR11</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="30" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="11" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_100</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR100</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="40" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_101</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR101</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="40" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_102</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR102</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="40" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_103</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR103</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="40" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_104</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR104</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="40" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="4" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_105</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR105</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="40" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="5" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_106</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR106</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="40" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="6" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_107</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR107</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="40" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="7" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_108</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR108</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="40" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="8" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_109</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR109</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="40" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="9" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_110</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR110</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="40" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="10" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_111</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_LOWR111</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="40" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="11" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_F_000</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_FEET000</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="49" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_FEET</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_F_001</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_FEET001</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="49" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_FEET</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_F_002</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_FEET002</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="49" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_FEET</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_F_003</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_FEET003</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="49" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_FEET</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_F_004</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_FEET004</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="49" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="4" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_FEET</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_F_005</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_FEET005</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="49" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="5" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_FEET</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_F_006</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_FEET006</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="49" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="6" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_FEET</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_F_007</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_FEET007</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="49" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="7" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_FEET</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_F_008</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_FEET008</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="49" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="8" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_FEET</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_F_009</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_FEET009</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="49" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="9" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_FEET</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_F_010</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_FEET010</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="49" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="10" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_FEET</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_F_011</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_FEET011</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="49" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="11" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_FEET</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="590" />
+      <textLabel>CLO_BBF_H_00</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HAIR00</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="0" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_HAIR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="585" />
+      <textLabel>CLO_BBF_H_01</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HAIR01</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="0" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_HAIR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="580" />
+      <textLabel>CLO_BBF_H_02</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HAIR02</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="0" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_HAIR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="575" />
+      <textLabel>CLO_BBF_H_03</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HAIR03</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="0" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_HAIR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="570" />
+      <textLabel>CLO_BBF_H_04</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HAIR04</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="0" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="4" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_HAIR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="990" />
+      <textLabel>CLO_BBF_H_05</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HAIR05</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents>
+        <Item>
+          <nameHash>FM_F_Hair_017_a</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="0" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_HAIR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="985" />
+      <textLabel>CLO_BBF_H_06</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HAIR06</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents>
+        <Item>
+          <nameHash>FM_F_Hair_017_b</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="0" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_HAIR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="980" />
+      <textLabel>CLO_BBF_H_07</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HAIR07</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents>
+        <Item>
+          <nameHash>FM_F_Hair_017_c</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="0" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_HAIR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="975" />
+      <textLabel>CLO_BBF_H_08</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HAIR08</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents>
+        <Item>
+          <nameHash>FM_F_Hair_017_d</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="0" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_HAIR</eCompType>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="970" />
+      <textLabel>CLO_BBF_H_09</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HAIR09</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents>
+        <Item>
+          <nameHash>FM_F_Hair_017_e</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="0" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="4" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_HAIR</eCompType>
+    </Item>
+  </pedComponents>
+  <pedProps>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P0_0</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_EYES0_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>GLASSES</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="84" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="0" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P0_1</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_EYES0_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>GLASSES</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="84" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="0" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P0_2</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_EYES0_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>GLASSES</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="84" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="0" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P0_3</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_EYES0_3</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>GLASSES</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="84" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="0" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P0_4</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_EYES0_4</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>GLASSES</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="84" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="0" />
+      <textureIndex value="4" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P0_5</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_EYES0_5</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>GLASSES</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="84" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="0" />
+      <textureIndex value="5" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P0_6</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_EYES0_6</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>GLASSES</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="84" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="0" />
+      <textureIndex value="6" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+    </Item>
+	<Item>
+	  <lockHash />
+	  <cost value="0" />
+	  <textLabel />
+	  <uniqueNameHash>DLC_MP_BEACH_F_EYES0_7</uniqueNameHash>
+	  <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+	  <locate value="0" />
+	  <scriptSaveData value="0" />
+	  <restrictionTags>
+		<Item>
+		  <tagNameHash>GLASSES</tagNameHash>
+		</Item>
+	  </restrictionTags>
+	  <forcedComponents />
+	  <forcedProps />
+	  <variantComponents />
+	  <variantProps />
+	  <propIndex value="0" />
+	  <localPropIndex value="0" />
+	  <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+	  <textureIndex value="7" />
+	  <isInOutfit value="false" />
+	</Item>
+	<Item>
+	  <lockHash />
+	  <cost value="0" />
+	  <textLabel />
+	  <uniqueNameHash>DLC_MP_BEACH_F_EYES0_8</uniqueNameHash>
+	  <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+	  <locate value="0" />
+	  <scriptSaveData value="0" />
+	  <restrictionTags>
+		<Item>
+		  <tagNameHash>GLASSES</tagNameHash>
+		</Item>
+	  </restrictionTags>
+	  <forcedComponents />
+	  <forcedProps />
+	  <variantComponents />
+	  <variantProps />
+	  <propIndex value="0" />
+	  <localPropIndex value="0" />
+	  <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+	  <textureIndex value="8" />
+	  <isInOutfit value="false" />
+	</Item>
+	<Item>
+	  <lockHash />
+	  <cost value="0" />
+	  <textLabel />
+	  <uniqueNameHash>DLC_MP_BEACH_F_EYES0_9</uniqueNameHash>
+	  <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+	  <locate value="0" />
+	  <scriptSaveData value="0" />
+	  <restrictionTags>
+		<Item>
+		  <tagNameHash>GLASSES</tagNameHash>
+		</Item>
+	  </restrictionTags>
+	  <forcedComponents />
+	  <forcedProps />
+	  <variantComponents />
+	  <variantProps />
+	  <propIndex value="0" />
+	  <localPropIndex value="0" />
+	  <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+	  <textureIndex value="9" />
+	  <isInOutfit value="false" />
+	</Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P1_0</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_EYES1_</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>GLASSES</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="84" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="1" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P1_1</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_EYES1_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>GLASSES</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="84" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="1" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P1_2</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_EYES1_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>GLASSES</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="84" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="1" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P1_3</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_EYES1_3</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>GLASSES</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="84" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="1" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P1_4</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_EYES1_4</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>GLASSES</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="84" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="1" />
+      <textureIndex value="4" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P1_5</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_EYES1_5</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>GLASSES</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="84" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="1" />
+      <textureIndex value="5" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P1_6</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_EYES1_6</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>GLASSES</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="84" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="1" />
+      <textureIndex value="6" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+    </Item>
+	<Item>
+	  <lockHash />
+	  <cost value="0" />
+	  <textLabel />
+	  <uniqueNameHash>DLC_MP_BEACH_F_EYES1_7</uniqueNameHash>
+	  <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+	  <locate value="0" />
+	  <scriptSaveData value="0" />
+	  <restrictionTags>
+		<Item>
+		  <tagNameHash>GLASSES</tagNameHash>
+		</Item>
+	  </restrictionTags>
+	  <forcedComponents />
+	  <forcedProps />
+	  <variantComponents />
+	  <variantProps />
+	  <propIndex value="0" />
+	  <localPropIndex value="1" />
+	  <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+	  <textureIndex value="7" />
+	  <isInOutfit value="false" />
+	</Item>
+	<Item>
+	  <lockHash />
+	  <cost value="0" />
+	  <textLabel />
+	  <uniqueNameHash>DLC_MP_BEACH_F_EYES1_8</uniqueNameHash>
+	  <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+	  <locate value="0" />
+	  <scriptSaveData value="0" />
+	  <restrictionTags>
+		<Item>
+		  <tagNameHash>GLASSES</tagNameHash>
+		</Item>
+	  </restrictionTags>
+	  <forcedComponents />
+	  <forcedProps />
+	  <variantComponents />
+	  <variantProps />
+	  <propIndex value="0" />
+	  <localPropIndex value="1" />
+	  <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+	  <textureIndex value="8" />
+	  <isInOutfit value="false" />
+	</Item>
+	<Item>
+	  <lockHash />
+	  <cost value="0" />
+	  <textLabel />
+	  <uniqueNameHash>DLC_MP_BEACH_F_EYES1_9</uniqueNameHash>
+	  <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+	  <locate value="0" />
+	  <scriptSaveData value="0" />
+	  <restrictionTags>
+		<Item>
+		  <tagNameHash>GLASSES</tagNameHash>
+		</Item>
+	  </restrictionTags>
+	  <forcedComponents />
+	  <forcedProps />
+	  <variantComponents />
+	  <variantProps />
+	  <propIndex value="0" />
+	  <localPropIndex value="1" />
+	  <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+	  <textureIndex value="9" />
+	  <isInOutfit value="false" />
+	</Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P2_0</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HEAD2_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="71" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="0" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P2_1</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HEAD2_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="71" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="0" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P2_2</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HEAD2_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="71" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="0" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P2_3</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HEAD2_3</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="71" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="0" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P2_4</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HEAD2_4</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="71" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="0" />
+      <textureIndex value="4" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P2_5</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HEAD2_5</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="71" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="0" />
+      <textureIndex value="5" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P2_6</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HEAD2_6</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="71" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="0" />
+      <textureIndex value="6" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P3_0</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HEAD3_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="63" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="1" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P3_1</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HEAD3_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="63" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="1" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P3_2</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HEAD3_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="63" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="1" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P3_3</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HEAD3_3</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="63" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="1" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P3_4</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HEAD3_4</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="63" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="1" />
+      <textureIndex value="4" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P3_5</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HEAD3_5</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="63" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="1" />
+      <textureIndex value="5" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P3_6</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HEAD3_6</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="63" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="1" />
+      <textureIndex value="6" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P4_0</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HEAD4_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="63" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="2" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P4_1</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HEAD4_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="63" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="2" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P4_2</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HEAD4_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="63" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="2" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P4_3</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HEAD4_3</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="63" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="2" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P4_4</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HEAD4_4</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="63" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="2" />
+      <textureIndex value="4" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P4_5</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HEAD4_5</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="63" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="2" />
+      <textureIndex value="5" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash />
+      <cost value="0" />
+      <textLabel>CLO_BBF_P4_6</textLabel>
+      <uniqueNameHash>DLC_MP_BEACH_F_HEAD4_6</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="63" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="2" />
+      <textureIndex value="6" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+  </pedProps>
+  <pedOutfits />
+</ShopPedApparel>

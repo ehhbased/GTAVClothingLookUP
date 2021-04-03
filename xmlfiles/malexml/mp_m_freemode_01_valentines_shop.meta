@@ -1,0 +1,6358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopPedApparel>
+  <pedName>mp_m_freemode_01</pedName>
+  <dlcName>Male_freemode_valentines</dlcName>
+  <fullDlcName>mp_m_freemode_01_male_freemode_valentines</fullDlcName>
+  <creatureMetaData>mp_creaturemetadata_valentines</creatureMetaData>
+  <nameHash />
+  <eCharacter>SCR_CHAR_MULTIPLAYER</eCharacter>
+  <pedComponents>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="3500" />
+      <textLabel>CLO_VALM_F_0_0</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_FEET0_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+		<Item>
+			<tagNameHash>DRAW_10</tagNameHash>
+		</Item>
+	  </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="58" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_FEET</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="3650" />
+      <textLabel>CLO_VALM_F_0_1</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_FEET0_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+		<Item>
+			<tagNameHash>DRAW_10</tagNameHash>
+		</Item>
+	  </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="58" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_FEET</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="7500" />
+      <textLabel>CLO_VALM_F_1_0</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_FEET1_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="58" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_FEET</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="1490" />
+      <textLabel>CLO_VALM_L_0_0</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_LEGS0_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="36" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="1475" />
+      <textLabel>CLO_VALM_L_0_1</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_LEGS0_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="36" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="1490" />
+      <textLabel>CLO_VALM_L_0_2</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_LEGS0_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="36" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="1450" />
+      <textLabel>CLO_VALM_L_0_3</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_LEGS0_3</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="36" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="950" />
+      <textLabel>CLO_VALM_L_1_0</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_LEGS1_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags />
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="30" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_LOWR</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="870" />
+      <textLabel>CLO_VALM_T_0_0</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_TEETH0_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>VEST_TIE</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="92" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_TEEF</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="860" />
+      <textLabel>CLO_VALM_T_0_1</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_TEETH0_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>VEST_TIE</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="92" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_TEEF</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="815" />
+      <textLabel>CLO_VALM_T_0_2</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_TEETH0_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>VEST_TIE</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="92" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_TEEF</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="850" />
+      <textLabel>CLO_VALM_T_0_3</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_TEETH0_3</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>VEST_TIE</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="92" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_TEEF</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="855" />
+      <textLabel>CLO_VALM_T_0_4</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_TEETH0_4</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>VEST_TIE</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="92" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="4" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_TEEF</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="6250" />
+      <textLabel>CLO_VALM_U_0_0</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_JBIB0_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>JACKET</tagNameHash>
+        </Item>
+		<Item>
+		  <tagNameHash>CLOSED_JACKET</tagNameHash>
+		</Item>
+        <Item>
+          <tagNameHash>DRAW_10</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="36" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="7" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="5995" />
+      <textLabel>CLO_VALM_U_0_1</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_JBIB0_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>JACKET</tagNameHash>
+        </Item>
+		<Item>
+		  <tagNameHash>CLOSED_JACKET</tagNameHash>
+		</Item>
+        <Item>
+          <tagNameHash>DRAW_10</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="36" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="7" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="6100" />
+      <textLabel>CLO_VALM_U_0_2</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_JBIB0_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>JACKET</tagNameHash>
+        </Item>
+		<Item>
+		  <tagNameHash>CLOSED_JACKET</tagNameHash>
+		</Item>
+        <Item>
+          <tagNameHash>DRAW_10</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="36" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="7" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="5800" />
+      <textLabel>CLO_VALM_U_0_3</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_JBIB0_3</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>JACKET</tagNameHash>
+        </Item>
+		<Item>
+		  <tagNameHash>CLOSED_JACKET</tagNameHash>
+		</Item>
+        <Item>
+          <tagNameHash>DRAW_10</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="36" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="7" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="325" />
+      <textLabel>CLO_VALM_U_1_0</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_JBIB1_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_11</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="11" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="31" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="23" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="295" />
+      <textLabel>CLO_VALM_U_1_1</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_JBIB1_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_11</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="11" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="31" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="23" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="310" />
+      <textLabel>CLO_VALM_U_1_2</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_JBIB1_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_11</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="11" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="31" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="23" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="280" />
+      <textLabel>CLO_VALM_U_1_3</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_JBIB1_3</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_11</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="11" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="31" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="23" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="99" />
+      <textLabel>CLO_VALM_U_2_0</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_JBIB2_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_0</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>MULTI_DECAL</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="240" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_VAL_M_ACCS2_0</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>DLC_MP_VAL_M_ACCS3_0</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+		<Item>
+          <nameHash>DLC_MP_BIKER_M_SPECIAL_0_9</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+		<Item>
+          <nameHash>DLC_MP_BIKER_M_SPECIAL_2_9</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+		<Item>
+          <nameHash>DLC_MP_BIKER_M_SPECIAL_4_9</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_A</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_B</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_C</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_D</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_E</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_F</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_G</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_H</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_I</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_T</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_000</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_002</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_003</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_004</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_005</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_006</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_011</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_012</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_014</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_015</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_017</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_018</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_019</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_020</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_001</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_005</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_007</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_008</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Rstar_M_Tshirt_000</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_004</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_005</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_006</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_007</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_008</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_009</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_010</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_011</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_012</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_013</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_000</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_001</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_002</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_004</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_005</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_008</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_010</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_012</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_014</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_015</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_017</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_020</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_021</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_022</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_023</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_025</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_026</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_LTS_M_Tshirt_000</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FM_OGA_000_m</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FM_OGA_001_m</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_SN_004_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_SN_001_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_LC_010_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_LC_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_LC_006_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_LC_008_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_LC_012_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_LC_014_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_002_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_023_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_006_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_009_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Bennys_001_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_IHeartLC_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_001_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_002_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_004_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_011_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_012_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>Blank_White_ValentinesTee</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_001_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_002_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_010_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_011_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_004_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_006_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_008_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_010_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_012_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_014_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_016_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_018_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_021_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_022_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_003_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_023_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_025_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_027_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_029_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_031_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_033_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_035_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_036_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_037_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_039_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_041_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_042_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_044_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_046_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_048_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_050_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_051_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_005_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_052_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_001_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_002_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_005_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_006_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_012_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_016_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_020_M_ALT</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_024_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_022_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_024_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_026_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_007_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_008_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_009_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_012_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_013_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_014_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_016_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_018_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_019_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_021_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_022_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_023_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_024_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_025_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_026_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_027_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_028_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_029_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_030_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_031_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_033_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_035_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_036_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_041_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_042_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_043_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_045_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_047_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_048_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_050_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_053_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_055_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_058_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_061_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="11" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="2" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="99" />
+      <textLabel>CLO_VALM_U_2_1</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_JBIB2_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_0</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>MULTI_DECAL</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="240" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_VAL_M_ACCS2_1</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>DLC_MP_VAL_M_ACCS3_1</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+		<Item>
+          <nameHash>DLC_MP_BIKER_M_SPECIAL_0_10</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+		<Item>
+          <nameHash>DLC_MP_BIKER_M_SPECIAL_2_10</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+		<Item>
+          <nameHash>DLC_MP_BIKER_M_SPECIAL_4_10</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_J</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_007</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_008</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_010</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_002</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_003</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_004</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_028_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_006</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_009</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_029_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_011</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_030_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_012</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_031_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Rstar_M_Tshirt_001</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Award_000</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Fli_M_Tshirt_000</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FM_OGA_002_m</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FM_OGA_003_m</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Elite_M_Tshirt</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Elite_M_Tshirt_1</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+			<nameHash>MP_LUXE_DIX_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_DIX_001_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_DIX_002_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_ENEMA_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_SC_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_011_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_SN_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_VDG_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_VDG_001_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_VDG_002_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_VDG_004_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_VDG_005_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_VDG_006_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_001_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_002_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_003_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_007_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_009_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_013_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_015_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+          <nameHash>MP_FAKE_DIS_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FAKE_DIS_001_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FAKE_DS_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FAKE_ENEMA_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FAKE_LB_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FAKE_LC_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FAKE_SC_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FAKE_Vap_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_022_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_001_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_003_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_004_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_005_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_007_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_008_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Bennys_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_003_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_005_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_006_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_007_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_008_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_009_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_010_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>Blank_Black_ValentinesTee</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Securoserv_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_005_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_008_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_014_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_021_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_015_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_001_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_002_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_003_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_005_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_007_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_009_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_011_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_013_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_015_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_017_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_019_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_020_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_024_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_026_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_028_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_030_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_032_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_034_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_038_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_040_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_043_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_045_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_047_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_049_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_004_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_053_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_054_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_055_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_006_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_003_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_007_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_014_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_015_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_019_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_020_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_021_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_025_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_023_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_027_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_002_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_004_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_005_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_010_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_001_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_011_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_020_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_002_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_032_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_034_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_037_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_038_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_039_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_040_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_044_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_046_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_049_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_051_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_052_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_054_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_056_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_057_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_059_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_060_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_062_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="11" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="2" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="99" />
+      <textLabel>CLO_VALM_U_2_2</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_JBIB2_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>DRAW_0</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>MULTI_DECAL</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="240" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_VAL_M_ACCS2_2</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>DLC_MP_VAL_M_ACCS3_2</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+		<Item>
+          <nameHash>DLC_MP_BIKER_M_SPECIAL_0_11</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+		<Item>
+          <nameHash>DLC_MP_BIKER_M_SPECIAL_2_11</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+		<Item>
+          <nameHash>DLC_MP_BIKER_M_SPECIAL_4_11</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="1" />
+          <eCompType>PV_COMP_TASK</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_K</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_L</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_N</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_O</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_P</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_Q</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_R</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_S</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_000</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_010</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_013</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_032_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_011</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>Blank_Red_ValentinesTee</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_003_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+			<nameHash>MP_Biker_Award_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Award_001_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_013_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+	  </variantComponents>
+      <variantProps />
+      <locate value="11" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="2" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_JBIB</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="375" />
+      <textLabel>CLO_VALM_S_0_0</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_ACCS0_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>ALLOW_TIES</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="192" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="12" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="25" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="335" />
+      <textLabel>CLO_VALM_S_0_1</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_ACCS0_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>ALLOW_TIES</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="192" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="12" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="25" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="350" />
+      <textLabel>CLO_VALM_S_0_2</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_ACCS0_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>ALLOW_TIES</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="192" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="12" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="25" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="300" />
+      <textLabel>CLO_VALM_S_0_3</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_ACCS0_3</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>ALLOW_TIES</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="192" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="12" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="25" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="335" />
+      <textLabel>CLO_VALM_S_0_4</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_ACCS0_4</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>ALLOW_TIES</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="192" />
+          <eCompType>PV_COMP_ACCS</eCompType>
+        </Item>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="12" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="25" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="4" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="475" />
+      <textLabel>CLO_VALM_S_1_0</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_ACCS1_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>LONG_SLEEVE</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>VEST_SHIRT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="12" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="27" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="435" />
+      <textLabel>CLO_VALM_S_1_1</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_ACCS1_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>LONG_SLEEVE</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>VEST_SHIRT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="12" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="27" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="450" />
+      <textLabel>CLO_VALM_S_1_2</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_ACCS1_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>LONG_SLEEVE</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>VEST_SHIRT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="12" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="27" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="400" />
+      <textLabel>CLO_VALM_S_1_3</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_ACCS1_3</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>LONG_SLEEVE</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>VEST_SHIRT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="12" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="27" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="3" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="435" />
+      <textLabel>CLO_VALM_S_1_4</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_ACCS1_4</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>LONG_SLEEVE</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>VEST_SHIRT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents>
+        <Item>
+          <nameHash>0</nameHash>
+          <enumValue value="12" />
+          <eCompType>PV_COMP_UPPR</eCompType>
+        </Item>
+      </forcedComponents>
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="27" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="4" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="99" />
+      <textLabel>CLO_VALM_U_2_0</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_ACCS2_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>DRAW_15</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>MULTI_DECAL</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_VAL_M_JBIB2_0</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_A</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_B</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_C</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_D</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_E</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_F</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_G</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_H</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_I</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_T</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_000</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_002</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_003</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_004</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_005</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_006</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_011</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_012</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_014</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_015</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_017</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_018</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_019</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_020</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_001</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_005</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_007</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_008</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Rstar_M_Tshirt_000</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_004</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_005</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_006</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_007</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_008</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_009</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_010</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_011</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_012</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_013</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_000</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_001</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_002</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_004</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_005</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_008</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_010</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_012</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_014</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_015</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_017</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_020</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_021</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_022</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_023</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_025</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_026</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_LTS_M_Tshirt_000</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FM_OGA_000_m</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FM_OGA_001_m</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_SN_004_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_SN_001_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_LC_010_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_LC_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_LC_006_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_LC_008_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_LC_012_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_LC_014_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_002_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_023_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_006_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_009_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Bennys_001_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_IHeartLC_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_001_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_002_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_004_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_011_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_012_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>Blank_White_ValentinesTee</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_001_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_002_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_010_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_011_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_004_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_006_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_008_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_010_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_012_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_014_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_016_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_018_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_021_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_022_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_003_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_023_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_025_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_027_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_029_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_031_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_033_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_035_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_036_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_037_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_039_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_041_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_042_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_044_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_046_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_048_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_050_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_051_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_005_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_052_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_001_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_002_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_005_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_006_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_012_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_016_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_020_M_ALT</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_024_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_022_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_024_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_026_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_007_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_008_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_009_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_012_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_013_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_014_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_016_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_018_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_019_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_021_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_022_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_023_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_024_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_025_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_026_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_027_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_028_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_029_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_030_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_031_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_033_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_035_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_036_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_041_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_042_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_043_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_045_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_047_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_048_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_050_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_053_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_055_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_058_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_061_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="11" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="2" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="99" />
+      <textLabel>CLO_VALM_U_2_1</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_ACCS2_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>DRAW_15</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>MULTI_DECAL</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_VAL_M_JBIB2_1</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_J</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_007</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_008</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_010</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_002</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_003</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_004</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_028_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_006</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_009</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_029_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_011</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_030_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_012</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_031_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Rstar_M_Tshirt_001</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Award_000</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Fli_M_Tshirt_000</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FM_OGA_002_m</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FM_OGA_003_m</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Elite_M_Tshirt</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Elite_M_Tshirt_1</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+			<nameHash>MP_LUXE_DIX_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_DIX_001_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_DIX_002_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_ENEMA_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_SC_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_011_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_SN_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_VDG_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_VDG_001_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_VDG_002_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_VDG_004_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_VDG_005_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_VDG_006_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_001_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_002_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_003_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_007_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_009_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_013_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_015_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+          <nameHash>MP_FAKE_DIS_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FAKE_DIS_001_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FAKE_DS_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FAKE_ENEMA_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FAKE_LB_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FAKE_LC_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FAKE_SC_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FAKE_Vap_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_022_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_001_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_003_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_004_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_005_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_007_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_008_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Bennys_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_003_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_005_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_006_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_007_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_008_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_009_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_010_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>Blank_Black_ValentinesTee</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Securoserv_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_005_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_008_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_014_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_021_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_015_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_001_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_002_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_003_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_005_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_007_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_009_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_011_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_013_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_015_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_017_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_019_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_020_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_024_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_026_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_028_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_030_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_032_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_034_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_038_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_040_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_043_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_045_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_047_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_049_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_004_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_053_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_054_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_055_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_006_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_003_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_007_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_014_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_015_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_019_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_020_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_021_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_025_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_023_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_027_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_002_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_004_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_005_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_010_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_001_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_011_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_020_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_002_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_032_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_034_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_037_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_038_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_039_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_040_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_044_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_046_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_049_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_051_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_052_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_054_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_056_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_057_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_059_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_060_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_062_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="11" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="2" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="99" />
+      <textLabel>CLO_VALM_U_2_2</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_ACCS2_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>DRAW_15</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>MULTI_DECAL</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_VAL_M_JBIB2_2</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_K</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_L</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_N</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_O</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_P</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_Q</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_R</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_S</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_000</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_010</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_013</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_032_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_011</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>Blank_Red_ValentinesTee</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_003_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+			<nameHash>MP_Biker_Award_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Award_001_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_013_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="11" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="2" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="99" />
+      <textLabel>CLO_VALM_U_2_0</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_ACCS3_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>ALT_SPECIAL</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>MULTI_DECAL</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_VAL_M_JBIB2_0</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_A</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_B</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_C</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_D</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_E</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_F</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_G</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_H</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_I</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_T</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_000</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_002</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_003</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_004</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_005</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_006</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_011</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_012</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_014</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_015</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_017</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_018</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_019</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_020</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_001</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_005</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_007</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_008</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Rstar_M_Tshirt_000</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_004</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_005</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_006</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_007</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_008</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_009</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_010</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_011</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_012</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Award_M_Tshirt_013</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_000</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_001</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_002</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_004</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_005</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_008</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_010</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_012</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_014</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_015</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_017</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_020</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_021</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_022</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_023</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_025</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_026</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_LTS_M_Tshirt_000</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FM_OGA_000_m</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FM_OGA_001_m</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_SN_004_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_SN_001_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_LC_010_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_LC_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_LC_006_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_LC_008_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_LC_012_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_LUXE_LC_014_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_002_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_023_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_006_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_009_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Bennys_001_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_IHeartLC_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_001_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_002_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_004_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_011_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_012_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>Blank_White_ValentinesTee</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_001_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_002_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_010_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_011_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_004_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_006_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_008_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_010_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_012_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_014_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_016_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_018_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_021_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_022_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_003_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_023_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_025_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_027_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_029_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_031_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_033_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_035_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_036_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_037_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_039_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_041_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_042_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_044_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_046_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_048_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_050_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_051_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_005_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_052_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_001_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_002_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_005_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_006_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_012_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_016_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_020_M_ALT</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_024_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_022_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_024_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_026_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_007_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_008_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_009_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_012_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_013_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_014_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_016_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_018_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_019_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_021_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_022_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_023_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_024_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_025_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_026_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_027_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_028_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_029_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_030_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_031_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_033_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_035_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_036_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_041_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_042_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_043_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_045_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_047_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_048_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_050_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_053_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_055_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_058_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_061_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="11" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="3" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="99" />
+      <textLabel>CLO_VALM_U_2_1</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_ACCS3_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>ALT_SPECIAL</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>MULTI_DECAL</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_VAL_M_JBIB2_1</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_J</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_007</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_008</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Tshirt_010</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_002</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_003</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_004</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_028_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_006</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_009</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_029_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_011</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_030_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_012</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_031_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Rstar_M_Tshirt_001</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Award_000</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Fli_M_Tshirt_000</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FM_OGA_002_m</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FM_OGA_003_m</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+			<nameHash>MP_LUXE_DIX_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_DIX_001_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_DIX_002_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_ENEMA_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_SC_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_011_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_SN_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_VDG_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_VDG_001_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_VDG_002_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_VDG_004_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_VDG_005_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_VDG_006_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_001_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_002_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_003_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_007_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_009_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_013_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_LUXE_LC_015_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+          <nameHash>MP_FAKE_DIS_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FAKE_DIS_001_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FAKE_DS_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FAKE_ENEMA_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FAKE_LB_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FAKE_LC_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FAKE_SC_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FAKE_Vap_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_022_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_001_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_003_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_004_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_005_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_007_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_FILM_008_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Bennys_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_003_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_005_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_006_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_007_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_008_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_009_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>HW_Tee_010_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>Blank_Black_ValentinesTee</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Securoserv_000_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_005_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_008_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_014_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_021_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_015_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_001_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_002_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_003_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_005_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_007_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_009_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_011_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_013_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_015_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_017_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_019_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_020_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_024_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_026_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_028_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_030_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_032_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_034_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_038_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_040_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_043_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_045_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_047_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_049_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_004_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_053_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_054_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Tee_055_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_006_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_003_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_007_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_014_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_015_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_019_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_020_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_021_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_025_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_023_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_027_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_002_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_004_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_005_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_010_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_001_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_011_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_020_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Heist4_Tee_002_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_032_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_034_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_037_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_038_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_039_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_040_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_044_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_046_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_049_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_051_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_052_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_054_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_056_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_057_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_059_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_060_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Battle_Clothing_062_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="11" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="3" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="99" />
+      <textLabel>CLO_VALM_U_2_2</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_ACCS3_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>UNDER_JACKET</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>ALT_SPECIAL</tagNameHash>
+        </Item>
+        <Item>
+          <tagNameHash>MULTI_DECAL</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents>
+        <Item>
+          <nameHash>DLC_MP_VAL_M_JBIB2_2</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_JBIB</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_K</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_L</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_N</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_O</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_P</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_Q</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_R</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>MP_Val_M_Tshirt_S</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_000</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_010</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Hip_M_Retro_013</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_Heist4_Tee_032_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+        <Item>
+          <nameHash>FM_Ind_M_Tshirt_011</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>Blank_Red_ValentinesTee</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+          <nameHash>MP_exec_prizes_003_M</nameHash>
+          <enumValue value="0" />
+          <eCompType>PV_COMP_DECL</eCompType>
+        </Item>
+		<Item>
+			<nameHash>MP_Biker_Award_000_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Biker_Award_001_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+		<Item>
+			<nameHash>MP_Gunrunning_Award_013_M</nameHash>
+			<enumValue value="0" />
+			<eCompType>PV_COMP_DECL</eCompType>
+		</Item>
+      </variantComponents>
+      <variantProps />
+      <locate value="11" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="3" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_ACCS</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="2250" />
+      <textLabel>CLO_VALM_B_0_0</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_BERD0_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>MASK</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="0" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_BERD</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="2750" />
+      <textLabel>CLO_VALM_B_0_1</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_BERD0_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>MASK</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="0" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_BERD</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="2500" />
+      <textLabel>CLO_VALM_B_0_2</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_BERD0_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>MASK</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="0" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="0" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_BERD</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="12500" />
+      <textLabel>CLO_VALM_B_1_0</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_BERD1_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>MASK</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="0" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_BERD</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="15000" />
+      <textLabel>CLO_VALM_B_1_1</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_BERD1_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>MASK</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="0" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_BERD</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="17500" />
+      <textLabel>CLO_VALM_B_1_2</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_BERD1_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>MASK</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="0" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="1" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_BERD</eCompType>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="15000" />
+      <textLabel>CLO_VALM_B_2_0</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_BERD2_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>MASK</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="0" />
+      <scriptSaveData value="0" />
+      <drawableIndex value="0" />
+      <localDrawableIndex value="2" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eCompType>PV_COMP_BERD</eCompType>
+    </Item>
+  </pedComponents>
+  <pedProps>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="3950" />
+      <textLabel>CLO_VALM_H_0_0</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_HAT0_0</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="70" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="0" />
+      <textureIndex value="0" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="4115" />
+      <textLabel>CLO_VALM_H_0_1</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_HAT0_1</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="70" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="0" />
+      <textureIndex value="1" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+    <Item>
+      <lockHash>CU_VAL_CLOTHES</lockHash>
+      <cost value="3600" />
+      <textLabel>CLO_VALM_H_0_2</textLabel>
+      <uniqueNameHash>DLC_MP_VAL_M_HAT0_2</uniqueNameHash>
+      <eShopEnum>CLO_SHOP_LOW</eShopEnum>
+      <restrictionTags>
+        <Item>
+          <tagNameHash>HAT</tagNameHash>
+        </Item>
+      </restrictionTags>
+      <forcedComponents />
+      <forcedProps />
+      <variantComponents />
+      <variantProps />
+      <locate value="70" />
+      <scriptSaveData value="0" />
+      <propIndex value="0" />
+      <localPropIndex value="0" />
+      <textureIndex value="2" />
+      <isInOutfit value="false" />
+      <eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+    </Item>
+  </pedProps>
+  <pedOutfits />
+</ShopPedApparel>

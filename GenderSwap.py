@@ -32,12 +32,14 @@ class parse:
        elif gender == 'female':
            self.gender = self.root[2][1]    
 
+    #shows every key and its value
     def display_all(self):
         for n in self.gender.findall("Item"):
             key = n.get('key')
             value = n.get('value')
             print(key, ' = ', value)
-    
+
+    #shows all keys associated with given dlc. ie SUM, H4, GR, etc.
     def display_by_dlc(self, dlc):
         for n in self.gender.findall('Item'):
             key = n.get('key')
@@ -45,7 +47,8 @@ class parse:
             if d[2] == dlc:
                 value = n.get('value')
                 print(key, ' = ', value)
-    
+
+    #shows all keys and values associated with given component variation. ie PEYES, PHEAD, TORSO, JBIB, etc.
     def display_by_variation(self, variation):
         for n in self.gender.findall('Item'):
             key = n.get('key')
@@ -54,6 +57,7 @@ class parse:
                 value = n.get('value')
                 print(key, ' = ', value)
     
+    #shows all keys and values associated with given dlc and component variation
     def display_by_dlc_and_variation(self, dlc, variation):
         for n in self.gender.findall('Item'):
             key = n.get('key')
@@ -63,6 +67,7 @@ class parse:
                     value = n.get('value')
                     print(key, ' = ', value)
 
+    #compares both female and male components and displays the key associated to given value
     def compare_by_value(self, value):
         newlist = []
         for n in self.root[2][0].findall('Item'):
@@ -84,6 +89,7 @@ class parse:
             if a[3] == 'F':
                 print('\nFEMALE =', newlist[n])
 
+    #shows the key associated to the value passed and given gender
     def display_by_value(self, value, gender):
         newlist = []
         if gender == 'male':
@@ -98,12 +104,11 @@ class parse:
                 if str(value) == d:
                     key = n.get('key')
                     newlist.append(key)
-
-        #for n in range(len(newlist)):
-            #print(newlist[n])
         return newlist
 
-    def display_by_ID(self, Drawable, Texture):
+#class infolist:
+ #   def __init__(self, )
+    def display_by_ID(self, dlc, Drawable, Texture):
         a = []
         drawID = str(Drawable)
         textID = str(Texture)
@@ -114,15 +119,27 @@ class parse:
             for i in range(len(b)):
                 c = b[i].split('_')
                 d = c[::-1]
-                #print('c is ', d)
-                if d[0] == textID and d[1] == drawID:
-                    a.append(key)                            
-            b.pop
-            
-            #value = n.get('value')
-            #print(key, ' = ', value)
-        
-        print(a)
+                if str(dlc) == c[2]:
+                    if d[0] == textID and d[1] == drawID:
+                        a.append(key)                            
+            b.pop()
+        return a
+    
+    def values(self, itemlist):
+        a = itemlist
+        valueList = []
+        for n in self.gender.findall("Item"):
+            key = n.get('key') 
+            b = []
+            b.append(key)
+            for j in range(len(a)):
+                value = n.get('value')
+                #print(key, a[j])
+                if key == a[j]:
+                    valueList.append(value)
+            b.pop()
+        return valueList
+
     
         
 
@@ -137,7 +154,7 @@ if __name__ == '__main__':
     #list1 = p.display_by_value(2900, 'female')
     #print(list1)
 
-    #a = list1[0].split('_')
-    #print(a[::-1])
-
-    p.display_by_ID(11, 7)
+    newlist = p.display_by_ID('H4', 2, 0)
+    valueList = p.values(newlist)
+    print(newlist)
+    print(valueList)
