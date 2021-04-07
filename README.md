@@ -6,8 +6,12 @@ https://github.com/root-cause/v-clothingnames
 
 * Lookup purchasable GTA V clothing names. Female to Male components and vice verso...
 
+* feature to look up waht unlocks what using the genderswap glitch.
+
 * Many items have "NO_LABEL" and "NULL" as their names, which probably means they aren't available for purchase in 
 GTA Online clothes shops OR they're old enough to have their names hardcoded in game scripts.
+
+* run "shop.py" to use the tool
 
 **FILENAMES AND BRIEF DESCRIPTION**
 
@@ -25,3 +29,4 @@ GTA Online clothes shops OR they're old enough to have their names hardcoded in 
 
 * Files prefixed with props_female_ are the props for mp_f_freemode_01 model. (female props ie. glasses, watch, ears, bracelets):
         -props_female_hats    -props_female_ears    -props_female_glasses     -props_female_bracelets   -props_female_watches
+
